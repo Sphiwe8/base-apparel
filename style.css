@@ -1,0 +1,71 @@
+
+
+
+
+#attr{ color: rgba(221, 143, 156, 0.877)  ;font-size:60px ; font-family:-apple-system;
+}
+
+.para{
+ color:rgba(221, 143, 156, 0.877) ; word-spacing: 10px ; text-align: center;;
+ text-size-adjust: 60px; margin-left: 80px;
+ font-size: 22px; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+input{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid rgba(235, 190, 198, 0.842);
+    margin-left: 180px;
+  padding-left: 15px;
+  margin-top: 50px;
+}
+
+#input.address{
+    font-size: 30px;
+    padding-right: 20px;
+}
+
+#image{
+   
+    width: 1000px;
+    height: 1200px;
+}
+
+#logo , img{ 
+    height: 3rem;
+    margin-left: 70px;
+    margin-top:-150px
+
+}
+
+body{
+    background-image:url("./images/bg-pattern-desktop.svg");
+}
+
+div .myheaders{
+    padding-left: 100px;
+    margin-left: 50px;
+   font-size: 30px;
+   letter-spacing: 15px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+
+}
+
+button {
+    width: 70px;
+    height: 45px;
+    border-radius: 22px;
+    background-color: rgba(216, 163, 172, 0.842);
+    border: none;
+    position: absolute ;
+    margin-left: -70px;
+    margin-top: 50px;
+}
+
+.address{
+    padding-left: 200px;
+}
+
+  
